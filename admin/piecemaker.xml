@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Contents>
+    <Image Source="contents/banner_01.png" Title="Volkswagen">
+		<Text>&lt;h1&gt;Volkswagen is a German automobile manufacturer headquartered in Wolfsburg, Lower Saxony, Germany. Volkswagen is the original and top-selling marque of the Volkswagen Group, the biggest German automaker and the third largest automaker in the world.Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St: the Volkswagen Golf, the Volkswagen Beetle, and the Volkswagen Passat. With these three cars, Volkswagen has the most cars of any automobile manufacturer in the list that are still being manufactured. Volkswagen ranks third in spending the most money of any automaker on research and development as of 2011.Volkswagen means "people's car" in German. Its current slogan is Das Auto ("The Car").&lt;/p&gt;</Text>
+		<Hyperlink URL="http://www.templatemo.com/page/1" Target="_blank" />
+	</Image>		
+    <Image Source="contents/banner_02.png" Title="Hyundai">
+      <Text>&lt;h1&gt;Hyundai: was a multinational chaebol (conglomerate) headquartered in Seoul, South Korea. It was founded by Chung Ju-yung in 1947 as a construction firm and Chung was directly in control of the company until his death in 2001.
+Following the 1997 East Asian financial crisis and Chung's death, Hyundai underwent a major restructuring and break-up, which reduced the Hyundai Group's business to encompass only container shipping services, the manufacturing of elevators, and tourism. Today, most companies bearing the name Hyundai are not legally connected to Hyundai Group. They include Hyundai Motor Group, Hyundai Department Store Group, Hyundai Heavy Industries Group and Hyundai Development Company. However, most of the former subsidiaries of the Hyundai conglomerate continue to be run by relatives of Chung. If these companies were considered, as forming a single broad family business, then it would remain the largest company in South Korea with enormous economic and political power in the country. &lt;/p&gt;</Text>
+      <Hyperlink URL="http://localhost/cars/Car/Hyundai.html" Target="_blank" />
+    </Image>
+	<Image Source="contents/banner_03.png" Title="Chevrolet">
+      <Text>&lt;h1&gt;Chevrolet: colloquially referred to as Chevy, is a brand of vehicle produced by General Motors (GM). Originally founded by Louis Chevrolet and ousted General Motors founder William C. Durant on November 3, 1911 [1] as the Chevrolet Motor Car Company, it was acquired by General Motors in 1918 and positioned by Alfred Sloan to sell mainstream vehicles to compete with Henry Ford's Model T.
+Chevrolet-branded vehicles are sold in most automotive markets worldwide, with the notable exception of Oceania, where GM is represented by their Australian subsidiary, Holden. In 2005, Chevrolet was relaunched in Europe, primarily selling vehicles manufactured by GM Korea and slotting in below Opel.
+In North America, Chevrolet produces and sells a wide range of vehicles, from subcompact automobiles to medium-duty commercial trucks. Due to the prominence and name recognition of Chevrolet as one of General Motors' global marques, Chevrolet, Chevy or Chev is used at times as a synonym for GM or its products, one example being the GM LS1 engine, commonly known by the name or a variant thereof of its progenitor, the Chevrolet small-block engine. &lt;/p&gt;</Text>
+      <Hyperlink URL="http://localhost/cars/Car/Chevrolet.html" Target="_blank" />
+    </Image>
+	<Image Source="contents/banner_04.png" Title="bmw">
+      <Text>&lt;h1&gt;BMW Car:
+Bayerische Motoren Werke AG English:(Bavarian Motor Works), commonly known as BMW or BMW AG, is a German automobile, motorcycle and engine manufacturing company founded in 1916. BMW is headquartered in Munich, Bavaria, Germany. It also owns and produces Mini cars, and is the parent company of Rolls-Royce Motor Cars. BMW produces motorcycles under BMW Motorrad. In 2010, the BMW group produced 1,481,253 automobiles and 112,271 motorcycles across all its brands. BMW is part of the "German Big 3" luxury automakers, along with Audi and Mercedes-Benz, which are the three best-selling luxury automakers in the world.</Text>
+      <Hyperlink URL="cars/bmw.html" Target="_blank" />
+    </Image>
+	<Image Source="contents/banner_05.png" Title="Kia">
+      <Text>&lt;h1&gt;Kia Motors, headquartered in Seoul, is South Korea's second-largest automobile manufacturer, following the Hyundai Motor Company, with sales of over 1.6 million vehicles in 2012. As of June 2012, the company is 32.8% owned by the Hyundai Motor Company, the fourth largest automotive group in the world based on annual vehicle sales in 2012 after Toyota, General Motors, and Volkswagen AG. Since December 28, 2012, the company has been led by Peter Schreyer.The word Kia derives from Korean words meaning "to arise to the world from Asia.&lt;/p&gt;</Text>
+      <Hyperlink URL="http://www.templatemo.com/page/5" Target="_blank" />
+    </Image>
+	<Image Source="contents/banner_06.png" Title="Mercedes">
+      <Text>&lt;h1&gt;Mercedes-Benz is a multinational division of the German manufacturer Daimler AG, and the brand is used for luxury automobiles, buses, coaches, and trucks. Mercedes-Benz is headquartered in Stuttgart, Baden-Württemberg, Germany.The name first appeared in 1926 under Daimler-Benz but traces its origins to Daimler-Motoren-Gesellschaft's 1901 Mercedes and to Karl Benz's 1886 Benz Patent Motorwagen, which is widely regarded as the first automobile. Mercedes-Benz's slogan is "Das Beste oder nichts" (English: "The best or nothing"). Mercedes-Benz is part of the "German Big 3" luxury automakers, along with Audi and BMW, which are the three best selling luxury automakers in the world.&lt;/p&gt;</Text>
+      <Hyperlink URL="http://localhost/cars/Car/Mercedes.html" Target="_blank" />
+    </Image>
+  </Contents>
+  <Settings ImageWidth="960" ImageHeight="360" LoaderColor="0x333333" InnerSideColor="0x222222" SideShadowAlpha="0.8" DropShadowAlpha="0.7" DropShadowDistance="25" DropShadowScale="0.95" DropShadowBlurX="40" DropShadowBlurY="4" MenuDistanceX="20" MenuDistanceY="50" MenuColor1="0x999999" MenuColor2="0x333333" MenuColor3="0xFFFFFF" ControlSize="100" ControlDistance="20" ControlColor1="0x222222" ControlColor2="0xFFFFFF" ControlAlpha="0.8" ControlAlphaOver="0.95" ControlsX="450" ControlsY="280&#xD;&#xA;" ControlsAlign="center" TooltipHeight="30" TooltipColor="0x222222" TooltipTextY="5" TooltipTextStyle="P-Italic" TooltipTextColor="0xFFFFFF" TooltipMarginLeft="5" TooltipMarginRight="7" TooltipTextSharpness="50" TooltipTextThickness="-100" InfoWidth="400" InfoBackground="0xFFFFFF" InfoBackgroundAlpha="0.95" InfoMargin="15" InfoSharpness="0" InfoThickness="0" Autoplay="4" FieldOfView="45"></Settings>
+  <Transitions>
+    <Transition Pieces="7" Time="1.4" Transition="easeInOutBack" Delay="0.12" DepthOffset="250" CubeDistance="30"></Transition>
+    <Transition Pieces="11" Time="1.2" Transition="easeInOutSine" Delay="0.08" DepthOffset="500" CubeDistance="15"></Transition>
+    <Transition Pieces="5" Time="1.5" Transition="easeInOutElastic" Delay="0.15" DepthOffset="350" CubeDistance="40"></Transition>
+    <Transition Pieces="9" Time="1.3" Transition="easeInOutQuart" Delay="0.1" DepthOffset="450" CubeDistance="20"></Transition>
+  </Transitions>
+</Piecemaker>
